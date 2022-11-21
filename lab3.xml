@@ -1,2 +1,37 @@
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="lab3.xsl" ?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lab3.xsd">
+    <user>
+        <userid>101</userid>
+        <fname>Apoorva</fname>
+        <lname>Vasishtha</lname>
+        <email>apoorvavasishtha@gmail.com</email>
+        <password>christ@123</password>
+        <age>21</age>
+    </user>
+    <user>
+        <userid>102</userid>
+        <fname>Tyrell</fname>
+        <lname>Fernandes</lname>
+        <email>tf@mail.com</email>
+        <password>abcdefu</password>
+        <age>28</age>
+    </user>
+    <user>
+        <userid>103</userid>
+        <fname>Sachin</fname>
+        <lname>Krishna</lname>
+        <email>sk@mail.com</email>
+        <password>skuv</password>
+        <age>40</age>
+    </user>
+    <user>
+        <userid>104</userid>
+        <fname>Awantika</fname>
+        <lname>Saha</lname>
+        <email>as@mail.com</email>
+        <password>as123</password>
+        <age>60</age>
+    </user>
+    
+</users>
