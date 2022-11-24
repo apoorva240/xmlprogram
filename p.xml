@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="p.xsl" type="text/xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pp.xsd">
+    <employee>
+        <id>1001</id>
+        <name> Apoorva Vasishtha</name>
+        <age> 30</age>
+        <email>av@gmail.com</email>
+        <Mobnum> 5645</Mobnum>
+        <designation> CEO</designation>
+    </employee>
+    <employee>
+        <id>1002</id>
+        <name> Manish Bhambhani</name>
+        <age> 60</age>
+        <email>ma@gmail.com</email>
+        <Mobnum> 5665</Mobnum>
+        <designation> Manager</designation>
+
+    </employee>
+
+</Company>
